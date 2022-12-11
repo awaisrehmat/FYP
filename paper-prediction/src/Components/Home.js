@@ -5,7 +5,7 @@ import React from 'react';
 
 const Home = () => {
 return (
-    <i class="fas fa-h1    "></i>
+    <div>hi</div>
     );
 };
 export default Home;
