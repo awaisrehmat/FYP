@@ -10,28 +10,28 @@ export const MenuItems = [
         title: "About",
         url: "/about",
         cName: "nav-links",
-        icon:  "fa fa-home",
+        icon:  "fa fa-address-card",
     },
 
     {
         title: "Service",
         url: "/service",
         cName: "nav-links",
-        icon:  "fa fa-home",
+        icon:  "fa-brands fa-servicestack",
     },
 
     {
         title: "Contact",
         url: "/contact",
         cName: "nav-links",
-        icon:  "fa fa-home",
+        icon:  "fa-solid fa-address-book",
     },
 
     {
         title: "SignUp",
         url: "/signup",
         cName: "nav-links-mobile",
-        icon:  "fa fa-home",
+        
     },
 
 
